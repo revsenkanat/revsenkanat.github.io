@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Rainy Reflections"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
-image: arctic-4.jpg
+image: raingirl.jpg
 ---
 
 # Millennial

@@ -18,4 +18,3 @@ For inquiries and bookings, please feel free to contact me.
 
 Revsen Kanat
 
-[the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).

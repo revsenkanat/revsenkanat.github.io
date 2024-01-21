@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Golden Hour Glimmer"
 author: "Paul Le"
 categories: sample
 tags: [sample]
-image: yaprak.jpg
+image: sea.jpg
 ---
 
 # Markdown Support
